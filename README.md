@@ -1,7 +1,8 @@
 
 ## Hi there 👋
+My name is yassine bibi. I am a computer engineering gradute from Leibniz Universität Hannvoer. 
 
-- 🔭 I’m currently working on a Home control App
+- 🔭 I’m currently working on uploading my projects to GitHub
 - 🌱 I’m currently learning Angular
 -  📫 How to reach me: www.yassinebibi.de
    
