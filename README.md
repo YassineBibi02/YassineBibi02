@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Home control App
+- 🌱 I’m currently learning Angular
+- - 📫 How to reach me: www.yassinebibi.de
+
 <!--
 **YassineBibi02/YassineBibi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
